@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[akw:home|Door43 (akw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-akw|d43-akw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-akw/archive/master.zip|d43-akw.zip]]
+
+**Recent Changes**
+{{changes>ns = akw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/akw|Ethnologue data]]
+
